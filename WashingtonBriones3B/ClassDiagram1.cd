@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WashingtonBriones3B.Empleado">
+    <Position X="1.25" Y="2.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAEQAIAAAAAAAAEBAAEAAAAAAAAKAAAAIBAA=</HashCode>
+      <FileName>Empleado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WashingtonBriones3B.EMPLEADOPORHORAS">
+    <Position X="7.5" Y="2.25" Width="1.5" />
+    <NestedTypes>
+      <Class Name="WashingtonBriones3B.EMPLEADOPORHORAS.EMPLEADOPORHORAS" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>EMPLEADOPORHORAS.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EMPLEADOPORHORAS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WashingtonBriones3B.EMPLEADOTEMPORAL" Collapsed="true">
+    <Position X="7.5" Y="5.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="WashingtonBriones3B.EMPLEADOTEMPORAL.EMPLEADOTEMPORAL" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>EMPLEADOTEMPORAL.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EMPLEADOTEMPORAL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WashingtonBriones3B.EMPLEADOFIJO" Collapsed="true">
+    <Position X="7.5" Y="4" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="WashingtonBriones3B.EMPLEADOFIJO.EMPLEADOFIJO" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>EMPLEADOFIJO.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EMPLEADOFIJO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

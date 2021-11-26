@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WashingtonBriones3B.PERSONAS">
+    <Position X="0.75" Y="1.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAABAQAgACAAAgAAAAAAEAAAAAAAAAAAAQACAA=</HashCode>
+      <FileName>PERSONAS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WashingtonBriones3B.ESTUDIANTES" Collapsed="true">
+    <Position X="6.5" Y="1.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="WashingtonBriones3B.ESTUDIANTES.ESTUDIANTES" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ESTUDIANTES.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ESTUDIANTES.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WashingtonBriones3B.PROFESORES" Collapsed="true">
+    <Position X="6.5" Y="3" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="WashingtonBriones3B.PROFESORES.PROFESORES" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>PROFESORES.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PROFESORES.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WashingtonBriones3B.PERSONAL" Collapsed="true">
+    <Position X="6.5" Y="4.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="WashingtonBriones3B.PERSONAL.PERSONAL" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>PERSONAL.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PERSONAL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
